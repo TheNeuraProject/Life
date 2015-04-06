@@ -1,0 +1,11 @@
+"life"
+{
+	"base"		"base"
+	"title"		"Life"
+	"maps"		"^lf_"
+	"menusystem"	"1"
+	"settings"
+	{
+
+	}
+}
